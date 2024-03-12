@@ -1,0 +1,19 @@
+.signup_container {
+    background-color: white;
+    border: 1px solid grey;
+    text-align: center;
+    width: 300px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+}
+
+#signup_btn {
+    padding: 5px 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(100, 175, 80);
+    color: white;
+}
